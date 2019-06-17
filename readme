@@ -4,5 +4,5 @@ please cd to /home/username/SMPL-X-expressive-body-capture/mano_v1_2/webuser/hel
 change m = load_model('/home/username/SMPLserise/mano_v1_2/models/mafainittestfinalallweight.pkl', ncomps=12, flat_hand_mean=False)  
 run: python2 SMPL+H___hello_world.py
 for requirments please refer:http://mano.is.tue.mpg.de/
-you will get result like this below:
+you will get result like this below
 ![image](https://github.com/Myzhencai/SMPL-X-expressive-body-capture/blob/master/result.png).
