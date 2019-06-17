@@ -1,3 +1,5 @@
+down load the model from：https://pan.baidu.com/s/1Z53t6W2QFez13kmsjUx7bA 
+Extracted code：93ih 
 please cd to /home/username/SMPL-X-expressive-body-capture/mano_v1_2/webuser/hello_world
 change m = load_model('/home/username/SMPLserise/mano_v1_2/models/mafainittestfinalallweight.pkl', ncomps=12, flat_hand_mean=False)  
 run: python2 SMPL+H___hello_world.py
